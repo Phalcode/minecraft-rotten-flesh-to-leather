@@ -1,12 +1,29 @@
-# Rotten Flesh to Leather
+# ♻️Rotten Flesh to Leather
+> This is an add-on for Minecraft Bedrock Edition.
 
-**This is an add-on for Minecraft Bedrock Edition.**
+A simple, lightweight, and cruelty-free Minecraft mod that lets you **convert Rotten Flesh into Leather** using a **Furnace**, **Smoker**, or **Campfire** 🔥  
+No more mass cow farms. Turn your zombie loot into something useful! 🧟‍♂️➡️👖
 
-Convert rotten flesh to leather by putting it in a furnace, smoker, or campfire.
+## ✨ Features
+- 🧱 Convert **1 Rotten Flesh → 1 Leather** through regular cooking  
+- 🔥 Works with **Furnace**, **Smoker**, and **Campfire**  
+- 🧩 Fully compatible with other mods and all modern game versions  
+- ⚙️ Perfect for vanilla+, survival, or low-impact modpacks  
 
-## Features
+## 🕹️ Gameplay Impact
+This mod provides a **humane and sustainable** way to get Leather without breeding or killing cows 🐄💚.  
 
-- Put rotten flesh in a furnace, smoker or campfire and it will convert to leather.
+Recycle your Rotten Flesh, a common zombie drop, to craft **books**, **bookshelves**, **item frames**, or **leather armor**.  
+
+It is a small but powerful tweak that encourages **resourcefulness** and **eco-friendly** gameplay while keeping the vanilla balance intact. 🌱
+
+
+## 💡 Inspiration
+Inspired by classic Java Edition mods that shared the same idea, this version focuses on **simplicity, balance, and immersion**.  
+No new items, no extra clutter, just a logical and lore-friendly recipe that fits naturally into Minecraft. 🪶  
+
+👤 *Made for players who love simplicity, sustainability, and smarter crafting.*
+
 
 ## Development
 
