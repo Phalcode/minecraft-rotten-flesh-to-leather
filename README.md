@@ -1,5 +1,7 @@
 # Rotten Flesh to Leather
 
+**This is an add-on for Minecraft Bedrock Edition.**
+
 Convert rotten flesh to leather by putting it in a furnace, smoker, or campfire.
 
 ## Features
