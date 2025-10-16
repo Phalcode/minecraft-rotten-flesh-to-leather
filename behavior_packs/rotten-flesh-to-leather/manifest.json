@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Rotten Flesh to Leather",
+    "description": "Convert rotten flesh to leather by putting it in a furnace, smoker or campfire.",
+    "uuid": "05fdf2bd-157d-4234-bcff-47e915bb87f2",
+    "version": [1, 0, 0]
+  },
+  "metadata": {
+    "authors": ["Phalcode"],
+    "license": "MIT License",
+    "url": "https://phalco.de"
+  },
+  "modules": [
+  ],
+  "dependencies": [
+  ]
+}
